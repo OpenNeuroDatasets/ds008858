@@ -31,6 +31,13 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
+      - name: Shantanu Rahman
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
     creators:
       - name: Sayem Rafique
         nameType: Personal
@@ -39,6 +46,8 @@ data:
       - name: Nazmus Sakib
         nameType: Personal
       - name: Md. Kafiul Islam
+        nameType: Personal
+      - name: Shantanu Rahman
         nameType: Personal
     descriptions:
       - description: N/A
