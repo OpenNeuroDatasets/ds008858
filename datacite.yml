@@ -17,42 +17,47 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Nazmus Sakib
+      - name: Shantanu Rahman
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Md. Kafiul Islam
+      - name: Nazmus Sakib
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Zawwad Bin Saif
+      - name: Rafia Akhter
         givenName: ''
         familyName: ''
         nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0009-0002-6917-4829
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
+        nameIdentifiers: []
         contributorType: Researcher
         order: 5
+      - name: Md. Kafiul Islam
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
     creators:
       - name: Sayem Rafique
         nameType: Personal
       - name: Saima Tasfia Roja
         nameType: Personal
+      - name: Shantanu Rahman
+        nameType: Personal
       - name: Nazmus Sakib
+        nameType: Personal
+      - name: Rafia Akhter
         nameType: Personal
       - name: Md. Kafiul Islam
         nameType: Personal
-      - name: Zawwad Bin Saif
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
