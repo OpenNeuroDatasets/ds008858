@@ -31,23 +31,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Shantanu Rahman
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Zawwad Bin Saif
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0009-0002-6917-4829
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 6
     creators:
       - name: Sayem Rafique
         nameType: Personal
@@ -57,11 +40,6 @@ data:
         nameType: Personal
       - name: Md. Kafiul Islam
         nameType: Personal
-      - name: Shantanu Rahman
-        nameType: Personal
-      - name: Zawwad Bin Saif
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
