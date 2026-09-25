@@ -10,41 +10,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Saima Tasfia Roja
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 2
-      - name: Shantanu Rahman
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
-      - name: Nazmus Sakib
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
-      - name: Rafia Akhter
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Md. Kafiul Islam
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 6
       - name: Zawwad Bin Saif
         givenName: ''
         familyName: ''
@@ -54,10 +19,48 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 2
+      - name: Saima Tasfia Roja
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Shantanu Rahman
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Nazmus Sakib
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Rafia Akhter
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Md. Kafiul Islam
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 7
     creators:
       - name: Sayem Rafique
         nameType: Personal
+      - name: Zawwad Bin Saif
+        nameType: Personal
+        nameIdentifiers: *ref_0
       - name: Saima Tasfia Roja
         nameType: Personal
       - name: Shantanu Rahman
@@ -68,9 +71,6 @@ data:
         nameType: Personal
       - name: Md. Kafiul Islam
         nameType: Personal
-      - name: Zawwad Bin Saif
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
