@@ -1,0 +1,45 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Sayem Rafique
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Saima Tasfia Roja
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Nazmus Sakib
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Md. Kafiul Islam
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+    creators:
+      - name: Sayem Rafique
+        nameType: Personal
+      - name: Saima Tasfia Roja
+        nameType: Personal
+      - name: Nazmus Sakib
+        nameType: Personal
+      - name: Md. Kafiul Islam
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
