@@ -1,0 +1,22 @@
+participant_id	sex	age	handedness	device	source_subject_number
+sub-01	male	n/a	n/a	EMOTIV EPOC+	1
+sub-02	male	n/a	n/a	EMOTIV EPOC+	2
+sub-03	male	n/a	n/a	EMOTIV EPOC+	3
+sub-04	male	n/a	n/a	EMOTIV EPOC+	4
+sub-05	male	n/a	n/a	EMOTIV EPOC+	5
+sub-06	male	n/a	n/a	EMOTIV EPOC+	6
+sub-07	male	n/a	n/a	EMOTIV EPOC+	7
+sub-08	male	n/a	n/a	EMOTIV EPOC+	8
+sub-09	male	n/a	n/a	EMOTIV EPOC+	9
+sub-10	male	n/a	n/a	EMOTIV EPOC+	10
+sub-11	male	n/a	n/a	EMOTIV EPOC+	11
+sub-12	male	n/a	n/a	EMOTIV EPOC+	12
+sub-13	male	n/a	n/a	EMOTIV EPOC+	13
+sub-14	male	n/a	n/a	EMOTIV EPOC+	14
+sub-15	male	n/a	n/a	EMOTIV EPOC+	15
+sub-16	male	n/a	n/a	EMOTIV EPOC+	16
+sub-17	male	n/a	n/a	EMOTIV EPOC+	17
+sub-18	male	n/a	n/a	EMOTIV EPOC+	18
+sub-19	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton	19
+sub-20	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton	20
+sub-21	male	n/a	n/a	OpenBCI Ultracortex Mark IV / Cyton	21
