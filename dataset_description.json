@@ -46,5 +46,6 @@
             "Version": "1.0.0",
             "Description": "Converted source CSV EEG columns to BrainVision float32 without filtering or resampling."
         }
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008858.v1.0.0"
 }
